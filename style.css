@@ -1,0 +1,15 @@
+
+#inizio_pagina{
+    width: auto;
+    height: auto;
+    background-image: url(./img/pattern.png);
+    background-size: 45%;
+    background-color: rgba(0, 153, 255, 0.993);
+
+}
+
+.logo_boolean{
+    text-align: left;
+    width: 10rem;
+    height: 10rem;
+}
