@@ -43,6 +43,9 @@ margin: 0em;
 .lista{
     padding: 1em;
 }
+.table{
+    border-spacing: 0;
+}
 
 .tab0{
 color:white ;
