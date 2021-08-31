@@ -36,3 +36,22 @@ margin: 0em;
 .lista{
     padding: 1em;
 }
+
+.tab0{
+color:white ;
+background-color: rgb(47, 186, 204);
+
+}
+
+.tab1{
+background-color: rgb(145, 230, 236);
+}
+
+.tab2{
+background-color: white;
+}
+
+
+.testo {
+    background-color: yellow;
+}
