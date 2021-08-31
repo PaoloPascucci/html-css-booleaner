@@ -5,12 +5,13 @@
     background-image: url(./img/pattern.png);
     background-size: 45%;
     background-color: rgba(0, 153, 255, 0.993);
-
+    
 }
 .logo_boolean{
     text-align: left;
     width: 10rem;
     height: 10rem;
+
 }
 .titolo{
 width: auto;
@@ -20,13 +21,18 @@ margin: 0em;
 }
 .sottotitolo{
     color: grey;
+    font-size: 1.1em;
     margin:0em;
+}
+.sottotitolo1{
+    color: grey;
+    font-size: 0.8em;
+    margin: 0em;
+    padding-bottom: 1em;
 }
 .nome{
     color: lightskyblue;
 }
-
-
 
 .didascalia{
     margin: 0em;
@@ -51,7 +57,35 @@ background-color: rgb(145, 230, 236);
 background-color: white;
 }
 
-
 .testo {
     background-color: yellow;
+}
+
+.testo2{
+   color: grey;
+}
+
+.la1{
+color:white ;
+background-image: url(./img/monitor.jpg);
+width: 17rem;
+height: 13rem;
+margin-top: 7px;
+}
+
+.la2{
+color:white ;
+background-image: url(./img/graph.jpg);
+width: 17rem;
+height: 13rem;
+}
+.cont1{
+        position:relative;
+    top: 15px;
+    left:15px;
+}
+.cont2{
+        position:relative;
+    top: 15px;
+    left:15px;
 }
